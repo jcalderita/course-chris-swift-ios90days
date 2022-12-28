@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Margarita",
+    "toppings": ["Tomato", "Cheese", "Pork", "Oregano"]
+  },
+  {
+    "name": "Barbecue",
+    "toppings": ["Tomato", "Cheese", "beef"]
+  },
+  {
+    "name": "Four cheeses",
+    "toppings": ["blue", "american", "cheddar"]
+  }
+]
